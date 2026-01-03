@@ -1,0 +1,7 @@
+{
+  "name": "YAXTRA - India Travel Intelligence",
+  "description": "A premium AI-powered travel intelligence platform for exploring any place in India, from major cities to the smallest villages.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
